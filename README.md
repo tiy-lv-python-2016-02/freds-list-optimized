@@ -19,7 +19,13 @@ It is time to make Fred's List a little more optimized and proactive with automa
 ### Optimizations
 * Use select related on listing page querysets to reduce the number of queries
 
-### Hard Mode
+## Hard Mode
 * Deploy your code from travis and stop deploying from local
 * Use coverage and coveralls and have 75% code coverage
 
+## External Links
+* [Github Repo](https://github.com/tiy-lv-python-2016-02/freds-list-optimized)
+* [Django Optimizations](https://docs.djangoproject.com/en/1.9/topics/performance/)
+* [Django Caching](https://docs.djangoproject.com/en/1.9/topics/cache/)
+* [Travis Getting Started](https://docs.travis-ci.com/user/languages/python)
+* [Coveralls](http://coveralls.io/)
